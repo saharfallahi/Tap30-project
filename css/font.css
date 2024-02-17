@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Yekan";
+    src: url(./Yekan.woff) format("woff");
+}
+body,button{
+    font-family: "Yekan";
+}
